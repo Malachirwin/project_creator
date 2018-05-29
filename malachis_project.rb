@@ -1,1 +1,0 @@
-class leave\n \nend
